@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 4124 1331"
+   version="1.1"
+   sodipodi:docname="mercode-logo-sticker-gradient.svg"
+   width="4124"
+   height="1331"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1326"
+     inkscape:window-height="718"
+     id="namedview21"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="0.1413215"
+     inkscape:cx="2848.4782"
+     inkscape:cy="1189.0542"
+     inkscape:window-x="40"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient878">
+      <stop
+         style="stop-color:#ff1d11;stop-opacity:1"
+         offset="0"
+         id="stop874" />
+      <stop
+         style="stop-color:#ffa206;stop-opacity:1"
+         offset="1"
+         id="stop876" />
+    </linearGradient>
+    <style
+       id="style2">.cls-1{fill:#fff;}</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient878"
+       id="linearGradient880"
+       x1="-109.56996"
+       y1="229.35486"
+       x2="306.74329"
+       y2="303.68436"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient878"
+       id="linearGradient888"
+       x1="56.608505"
+       y1="67.922508"
+       x2="4118.269"
+       y2="1016.1151"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <title
+     id="title6">Artboard 1</title>
+  <circle
+     style="fill:url(#linearGradient888);fill-rule:evenodd;stroke-width:1.18705034;fill-opacity:1"
+     id="path834"
+     cx="647.45984"
+     cy="662.31189"
+     r="583.77527" />
+  <g
+     transform="matrix(9.2342629,0,0,9.2342629,1199.4868,-1813.267)"
+     id="layer1"
+     style="stroke:url(#linearGradient880);stroke-width:20.03408432;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0,183)"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:133.33332825px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#linearGradient880);stroke-width:75.71937561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="flowRoot18"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:133.33332825px;font-family:Raleway;-inkscape-font-specification:'Raleway Ultra-Bold';stroke:url(#linearGradient880);stroke-width:75.71937561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="flowRegion20"><rect
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:133.33332825px;font-family:Raleway;-inkscape-font-specification:'Raleway Ultra-Bold';stroke:url(#linearGradient880);stroke-width:75.71937561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           y="179.43758"
+           x="0"
+           height="245.71428"
+           width="1117.1428"
+           id="rect22" /></flowRegion><flowPara
+         id="flowPara24"
+         style="stroke:url(#linearGradient880)" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0,183)"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:133.33332825px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#linearGradient880);stroke-width:75.71937561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="flowRoot26"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:133.33332825px;font-family:Raleway;-inkscape-font-specification:'Raleway Ultra-Bold';stroke:url(#linearGradient880);stroke-width:75.71937561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="flowRegion28"><rect
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:133.33332825px;font-family:Raleway;-inkscape-font-specification:'Raleway Ultra-Bold';stroke:url(#linearGradient880);stroke-width:75.71937561;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           y="5.1518641"
+           x="2.8571429"
+           height="277.14285"
+           width="1128.5714"
+           id="rect30" /></flowRegion><flowPara
+         id="flowPara32"
+         style="stroke:url(#linearGradient880)" /></flowRoot>    <text
+       transform="scale(0.96694326,1.0341868)"
+       id="text36"
+       y="285.3251"
+       x="-4.9402375"
+       style="font-style:normal;font-weight:normal;font-size:22.08693695px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#linearGradient880);stroke-width:20.03408432;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:73.6231308px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Ultra-Bold';word-spacing:0px;fill:#ffffff;stroke:url(#linearGradient880);stroke-width:20.03408432;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         y="285.3251"
+         x="-4.9402375"
+         id="tspan34">Mercode</tspan></text>
+  </g>
+  <g
+     id="katman_2"
+     data-name="katman 2"
+     style="stroke:none;stroke-width:117.30000305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     transform="matrix(0.91327505,0,0,0.91327505,178.80411,195.68579)">
+    <g
+       id="katman_3"
+       data-name="katman 3"
+       style="stroke:none;stroke-width:117.30000305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">
+      <path
+         class="cls-1"
+         d="m 976.79,296.75 c -3.2,-7 -6.55,-14 -10.32,-21 A 516.37,516.37 0 0 0 909.41,188.82 C 597.16,335.32 225.36,380.9 13.72,395.08 a 509.25,509.25 0 0 0 22.4,305.77 C 310.75,611.34 749.88,454.07 974.78,298.66 Z"
+         id="path8"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:none;stroke-width:117.30000305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         class="cls-1"
+         d="M 275.77,58 A 509.86,509.86 0 0 0 53.92,283.29 C 180.92,244.15 465.8,146.75 637.5,15.63 A 510.59,510.59 0 0 0 275.77,58 Z"
+         id="path10"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:none;stroke-width:117.30000305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         class="cls-1"
+         d="m 963,753.55 a 1533.14,1533.14 0 0 0 -522.19,264.83 v 0 0.56 A 511.75,511.75 0 0 0 963.58,753.81 Z"
+         id="path12"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:none;stroke-width:117.30000305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         class="cls-1"
+         d="M 1019.61,448.14 258,955.26 a 4.31,4.31 0 0 0 0,0.88 516.07,516.07 0 0 0 100.72,44.34 h -0.37 C 472.14,898.23 705,717.3 1008.42,629.23 l 2.16,-0.77 A 511.61,511.61 0 0 0 1020,448.4 Z"
+         id="path14"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:none;stroke-width:117.30000305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         class="cls-1"
+         d="M 184.24,899.88 C 642.71,637.53 356,648.31 86,794.23 l -0.47,0.57 a 508.31,508.31 0 0 0 94.42,106.68 30.39,30.39 0 0 1 4.29,-1.6 z"
+         id="path16"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:none;stroke-width:117.30000305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+  </g>
+</svg>
